@@ -1,0 +1,15 @@
+fastapi==0.136.0
+uvicorn==0.29.0
+python-multipart==0.0.9
+langchain==0.2.5
+langchain-community==0.2.5
+sentence-transformers==3.0.0
+chromadb==0.5.3
+ollama==0.2.1
+sqlalchemy==2.0.30
+psycopg2-binary==2.9.9
+pypdf==4.2.0
+python-dotenv==1.0.1
+streamlit>=1.32.0
+requests>=2.31.0
+unstructured[xlsx]
