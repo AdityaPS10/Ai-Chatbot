@@ -2,6 +2,9 @@
 
 FastAPI backend + Streamlit UI. ChromaDB + Ollama + PostgreSQL.
 
+##Work flow
+<img width="621" height="664" alt="Screenshot 2026-06-12 at 6 57 29 PM" src="https://github.com/user-attachments/assets/8ca51d08-2906-4c3f-ab0f-a47bc28abcaf" />
+
 ## Setup
 
 ```bash
@@ -106,4 +109,5 @@ simple-chatbot/
 - Chat works without uploaded documents (the LLM answers from general knowledge)
 - Refreshing the Streamlit page resets the UI session; PostgreSQL history is preserved server-side
 - If `streamlit` fails with a module error, use `python -m streamlit run streamlit_app.py` instead of bare `streamlit` (Anaconda may shadow the venv)
+
 
