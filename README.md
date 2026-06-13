@@ -2,7 +2,9 @@
 
 FastAPI backend + Streamlit UI. ChromaDB + Ollama + PostgreSQL.
 
-##Work flow
+## Work Flow
+
+
 <img width="621" height="664" alt="Screenshot 2026-06-12 at 6 57 29 PM" src="https://github.com/user-attachments/assets/8ca51d08-2906-4c3f-ab0f-a47bc28abcaf" />
 
 ## Setup
